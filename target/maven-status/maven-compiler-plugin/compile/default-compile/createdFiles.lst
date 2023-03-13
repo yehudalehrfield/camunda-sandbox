@@ -1,0 +1,4 @@
+yehuda/camunda/Application.class
+yehuda/camunda/ChargeCardWorker.class
+yehuda/camunda/GrantLoanHandler.class
+yehuda/camunda/ProvideScoreHandler.class
